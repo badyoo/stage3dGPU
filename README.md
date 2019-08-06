@@ -19,6 +19,6 @@
 图片;
 
 如何使用：
-你直接下载打开SWF就可以ķ看到效果了;
-该项目支持flash builder flash开发当然是个as3的项目都支持;
+你直接下载打开SWF就可以看到效果了;
+该项目支持flash builder flash develop 当然是个as3的项目都支持;
 如果你不会上述软件，那用我们万能的vscode或者TXT软件;查看代码;
